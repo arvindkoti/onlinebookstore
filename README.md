@@ -63,7 +63,7 @@ STEP 1: Open MySQL Command Prompt or MySQL Workbench
 STEP 2: Login to the administrator user as : ```mysql -u <username> -p``` (Enter Password if asked)
 
 STEP 3: Copy paste the following MySql Commands-
-```MySQL
+```MySQL------
 create database if not exists onlinebookstore;
 
 use onlinebookstore;
