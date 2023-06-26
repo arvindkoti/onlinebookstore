@@ -5,7 +5,7 @@
 - User Login Credentials: (shashi/shashi)
 - Admin Login Credentials: (Admin/Admin)
 
-- shruthi
+
 
 <hr>
 ### About
