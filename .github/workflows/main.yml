@@ -7,7 +7,7 @@ on:
 
 jobs:
   pst-gti-artemis:
-    runs-on: [self-hosted, linux, general]
+    runs-on: self-hosted
 
     steps:
     - name: Checkout
